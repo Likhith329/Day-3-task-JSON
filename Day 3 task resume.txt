@@ -1,0 +1,11 @@
+let resume={
+    name:"MATTAPALLI LIKHITH KUMAR",
+    email:"likhithmattapalli@gmail.com",
+    educationaldetails:{clgname:"JNTUH,hyderabad",
+                        stream: "Mechanical Engineering",
+                         yearofpassout:2022,
+                         cgpa:7.78 },
+    hobbies:"listening music,playing table tennis and watching movies",      
+    langugesknown:"basic of java,python,html and css",
+    project:"Estimation of mechanical properties of hemp-glass fibre reinforcement compsite materials"
+}
